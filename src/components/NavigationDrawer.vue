@@ -1,7 +1,5 @@
 <template>
-  <v-navigation-drawer app
-                       dark
-  >
+  <v-navigation-drawer app>
     <v-col class="text-center">
       <h2 class="white--text my-3">
         TIMER
@@ -34,7 +32,7 @@ export default {
     return {
       items: [
         { name: '스톱워치', icon: 'mdi-timer', path: '/stop-watch' },
-        { name: 'SOME', icon: 'mdi-timer', path: '/some' },
+        // { name: 'SOME', icon: 'mdi-timer', path: '/some' },
       ]
     }
   },

@@ -12,6 +12,9 @@ import AppBar from "@/components/AppBar.vue";
 import NavigationDrawer from "@/components/NavigationDrawer.vue";
 
 export default {
-  components: { NavigationDrawer, AppBar, Main }
+  components: { NavigationDrawer, AppBar, Main },
+  created() {
+    this.$vuetify.theme.dark = true;
+  }
 }
 </script>

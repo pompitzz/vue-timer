@@ -1,7 +1,5 @@
 <template>
-  <v-app-bar app
-             dark
-  >
+  <v-app-bar app>
     <v-spacer />
   </v-app-bar>
 </template>
