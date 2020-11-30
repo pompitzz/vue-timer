@@ -1,24 +1,5 @@
-# vue-timer
+# 간단한 타이머
+- [바로 가기](https://pompitzz.github.io/vue-timer/)
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 현재 기능
+- 일정한 주기 마다 알림을 내는 스탑 워치

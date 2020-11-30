@@ -5,7 +5,7 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/',
+    path: '/vue-timer/',
     redirect: '/stop-watch'
   },
   {
